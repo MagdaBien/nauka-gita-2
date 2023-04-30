@@ -4,7 +4,7 @@ body {
     color: #2c2c54;
     font-size: 18px;
     line-height: 1.5;
-    font-family: "Signika Negative", sans-serif; 
+    font-family: 'Nunito', sans-serif;
 }
 
 .container {
@@ -16,19 +16,21 @@ body {
 h1 {
     font-size: 40px;
     margin: 0;    
-    font-family: "Inconsolata", monospace; 
+    font-family: 'Noto Serif', serif; 
 }
 h2 {
-    font-size: 18px;
-    margin: 0 0 20px 0;
-    font-family: "Inconsolata", monospace; 
+    font-size: 16px;
+    margin: 10px 0 20px 0;
+    font-family: 'Noto Serif', serif; 
     font-style: italic;
 }
 h3 {
     font-size: 18px;
     font-style: italic;
+    font-family: 'Noto Serif', serif;     
 }
 .ref {
     font-style: italic;
+    font-family: 'Noto Serif', serif; 
 }
     
