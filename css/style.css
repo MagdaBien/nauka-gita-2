@@ -17,20 +17,25 @@ h1 {
     font-size: 40px;
     margin: 0;    
     font-family: 'Noto Serif', serif; 
+    color: violet;
 }
 h2 {
     font-size: 16px;
     margin: 10px 0 20px 0;
     font-family: 'Noto Serif', serif; 
     font-style: italic;
+    color:burlywood;
 }
 h3 {
     font-size: 18px;
     font-style: italic;
-    font-family: 'Noto Serif', serif;     
+    font-family: 'Noto Serif', serif;
+    color: #ccc;  
+    font-weight: 200;   
 }
 .ref {
     font-style: italic;
     font-family: 'Noto Serif', serif; 
+    color:burlywood;
 }
     
