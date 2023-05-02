@@ -12,6 +12,9 @@ body {
     margin: 50px auto;
     padding: 0 20px;    
 }
+a {
+    color: pink;
+}
 
 h1 {
     font-size: 40px;
